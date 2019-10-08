@@ -6,3 +6,6 @@ Install Following packages
   
   2) sudo apt-get install python3-tk
 
+Open command prompt and run file
+
+python ese.py
